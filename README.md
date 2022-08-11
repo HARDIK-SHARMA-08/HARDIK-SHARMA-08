@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <b>SKIT Jaipur</a>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif">. I explore different technologies of computer programming and enjoy doing that. width="36px">  always <b>obsessed</b>
+    I am a 3rd Year undergraduate from <b>SKIT Jaipur</a>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif">. I explore different technologies of computer programming and enjoy doing that. always <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="Assets/Medal.gif" width="20px">
