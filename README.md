@@ -8,7 +8,7 @@
 
 - 🔭 Currently exploring about JS libraies and Backend Development. 
 - 🥅 You can reach out to me at **hardiksharma@602gmail.com**
-- ⚡ Fun fact: I love Designing, Video Editing and plays synthesizer casually
+- ⚡ I love Designing, Video Editing and plays synthesizer casually
 - 🌱 I’m currently learning everything 🤣
 
 ## Languages and Tools:
