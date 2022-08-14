@@ -1,4 +1,4 @@
-## <img src="Assets/Hi.gif" width="29">Hi there, I'm Hardik Sharma [(www.linkedin.com/in/hardik-sharma8/)
+## <img src="Assets/Hi.gif" width="29">Hi there, I'm [Hardik Sharma](www.linkedin.com/in/hardik-sharma8/)
 
 <p>
   <em>
