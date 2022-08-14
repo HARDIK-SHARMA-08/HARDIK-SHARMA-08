@@ -1,4 +1,4 @@
-## <img align = "center" src="Assets/Hi.gif" width="29">Hi there, I'm [Hardik Sharma](www.linkedin.com/in/hardik-sharma8/)
+## <img src="Assets/Hi.gif" width="29">Hi there, I'm [Hardik Sharma](www.linkedin.com/in/hardik-sharma8/)
 
 <p>
     I am a 2nd Year undergraduate from <b>SKIT Jaipur</b>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="40px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif" width="50px">. I enjoy exploring different technologies and tools of computer programming and is always willing to connect with like minded people.
@@ -34,6 +34,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 
