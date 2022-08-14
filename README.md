@@ -1,8 +1,8 @@
-## <img src="Assets/Hi.gif" width="29">Hi there, I'm Hardik Sharma(www.linkedin.com/in/hardik-sharma8/)
+## <img src="Assets/Hi.gif" width="29">Hi there, I'm Hardik Sharma[(www.linkedin.com/in/hardik-sharma8/)]
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <b>SKIT Jaipur</a>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif">. I explore different technologies of computer programming and enjoy doing that. width="36px">  always <b>obsessed</b>
+    I am a 2rd Year undergraduate from <b>SKIT Jaipur</a>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif">. I explore different technologies of computer programming and enjoy doing that.always <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="Assets/Medal.gif" width="20px">
@@ -20,14 +20,14 @@
 
 # Connect with me<img src="Assets/Handshake.gif" height="32px">
 
-!website(./Assets/twitter-light.svg)(https://twitter.com/codestackr#gh-light-mode-only)
-!website(./Assets/twitter-dark.svg)(https://twitter.com/codestackr#gh-dark-mode-only)
+[!website(./Assets/twitter-light.svg)(https://twitter.com/codestackr#gh-light-mode-only)]
+[!website(./Assets/twitter-dark.svg)(https://twitter.com/codestackr#gh-dark-mode-only)]
 &nbsp;&nbsp;
-!website(./Assets/linkedin-light.svg)(https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-!website(./Assets/linkedin-dark.svg)(https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[!website(./Assets/linkedin-light.svg)(https://linkedin.com/in/codeSTACKr#gh-light-mode-only)]
+[!website(./Assets/linkedin-dark.svg)(https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)]
 &nbsp;&nbsp;
-!website(./Assets/instagram-light.svg)(https://instagram.com/codeSTACKr#gh-light-mode-only)
-!website(./Assets/instagram-dark.svg)(https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[!website(./Assets/instagram-light.svg)(https://instagram.com/codeSTACKr#gh-light-mode-only)]
+[!website(./Assets/instagram-dark.svg)(https://instagram.com/codeSTACKr#gh-dark-mode-only)]
 
 ### Languages and Tools:
 
@@ -44,4 +44,4 @@
 <br />
 <br />
 
-!visitors(https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+[!visitors(https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)]
