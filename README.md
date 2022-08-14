@@ -1,12 +1,7 @@
 ## <img src="Assets/Hi.gif" width="29">Hi there, I'm [Hardik Sharma](www.linkedin.com/in/hardik-sharma8/)
 
 <p>
-  <em>
-    I am a 2rd Year undergraduate from <b>SKIT Jaipur</a>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif">. I explore different technologies of computer programming and enjoy doing that.always <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="Assets/Medal.gif" width="20px">
-  </em>  
+    I am a 2nd Year undergraduate from <b>SKIT Jaipur</b>.I am an ambitious learner and a budding <b>Software Developer</b> <img src="Assets/Developer.gif" width="30px"> and <b>Design Enthusiast</b> <img src="Assets/Designer.gif">. I enjoy exploring different technologies and tools of computer programming and is always willing to connect with like minded people <img src="Assets/happy.gif" width="20px"> 
 </p>
 
 ## I'm a Learner, Developer and Designer!!
