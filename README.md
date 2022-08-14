@@ -20,14 +20,14 @@
 
 # Connect with me<img src="Assets/Handshake.gif" height="32px">
 
-[![website](./Assets/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./Assets/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./Assets/linkedin-light.svg)](https://www.linkedin.com/in/hardik-sharma8#gh-light-mode-only)
+[![website](./Assets/linkedin-dark.svg)](https://www.linkedin.com/in/hardik-sharma8#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./Assets/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./Assets/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./Assets/instagram-light.svg)](https://www.instagram.com/_h.a.r.d.i.k#gh-light-mode-only)
+[![website](./Assets/instagram-dark.svg)](https://www.instagram.com/_h.a.r.d.i.k#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./Assets/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./Assets/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./Assets/twitter-light.svg)](https://twitter.com/hardik602sharma#gh-light-mode-only)
+[![website](./Assets/twitter-dark.svg)](https://twitter.com/hardik602sharma#gh-dark-mode-only)
 
 ### Languages and Tools:
 
