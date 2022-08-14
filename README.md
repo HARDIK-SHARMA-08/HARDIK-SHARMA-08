@@ -7,7 +7,7 @@
 ## I'm a Learner, Developer and Designer!!
 
 - 🔭 Currently exploring about JS libraies and Backend Development. 
-- 🥅 You can reach out to me at **[Email](hardiksharma@602gmail.com)**
+- 🥅 You can reach out to me at **hardiksharma@602gmail.com**
 - ⚡ Fun fact: I love Designing and Video Editing and play synthesizer casually
 - 🌱 I’m currently learning everything 🤣
 
