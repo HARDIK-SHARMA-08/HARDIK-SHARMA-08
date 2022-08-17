@@ -13,17 +13,31 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<a href="https://www.nodejs.dev/">
+    <img height="35px" src="https://img.shields.io/badge/node.js-010409?style=for-the-badge&logo=node.js&logoColor=008000">
+  </a>
+<a href="https://nextjs.org/">
+    <img height="35px" src="https://img.shields.io/badge/next.js-010409?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>
+ <a href="https://reactjs.org/">
+    <img height="35px" src="https://img.shields.io/badge/React.Js-010409?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a><br/>
+  <a href="https://redux-toolkit.js.org/">
+    <img height="35px" src="https://img.shields.io/badge/Redux-010409?style=for-the-badge&logo=redux&logoColor=764abc">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-010409?style=for-the-badge&logo=tailwind-css&logoColor=22d3ee">
+  </a>
+  <br/>
+  <a href="https://firebase.google.com/">
+    <img height="35px" src="https://img.shields.io/badge/firebase-010409?style=for-the-badge&logo=firebase&logoColor=#F4B400">
+  </a><br/>
+  <a  href="https://www.javascript.com/">
+    <img height="35px" src="https://img.shields.io/badge/TypeScript-010409?style=for-the-badge&logo=typescript&logoColor=#f7df1e">
+  </a>  
+  <a href="https://www.java.com/en/">
+    <img height="35px" alt="" src="https://img.shields.io/badge/Java-010409?style=for-the-badge&logo=java&logoColor=red">
+  </a>
 <br />
 <br />
 
