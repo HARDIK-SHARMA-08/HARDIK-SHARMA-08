@@ -21,17 +21,16 @@
   </a>
  <a href="https://reactjs.org/">
     <img height="35px" src="https://img.shields.io/badge/React.Js-010409?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a><br/>
+  </a>
   <a href="https://redux-toolkit.js.org/">
     <img height="35px" src="https://img.shields.io/badge/Redux-010409?style=for-the-badge&logo=redux&logoColor=764abc">
   </a>
   <a href="https://tailwindcss.com/">
     <img height="35px" src="https://img.shields.io/badge/Tailwind_CSS-010409?style=for-the-badge&logo=tailwind-css&logoColor=22d3ee">
   </a>
-  <br/>
   <a href="https://firebase.google.com/">
     <img height="35px" src="https://img.shields.io/badge/firebase-010409?style=for-the-badge&logo=firebase&logoColor=#F4B400">
-  </a><br/>
+  </a>
   <a  href="https://www.javascript.com/">
     <img height="35px" src="https://img.shields.io/badge/TypeScript-010409?style=for-the-badge&logo=typescript&logoColor=#f7df1e">
   </a>  
