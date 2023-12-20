@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Final-year undergrad with a keen interest in <b>Software development</b> and <b>Design</b>. Enthusiastic about exploring diverse technologies, I'm eager to connect with like-minded individuals passionate about programming and innovation.</p>
+<p align="left">I'm a proactive learner and aspiring <b>Software developer</b> & <b>Design enthusiast</b>. I find joy in delving into various programming technologies and tools, always eager to connect with fellow enthusiasts who share a passion for innovation and continuous learning.</p>
 
 ###
 
