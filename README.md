@@ -23,9 +23,9 @@
 <p align="left">
 🌱 I’m currently learning <b>Backend Development</b><br>
 💬 Ask me about <b>ReactJS, NextJS, Javascript, Frontend Development</b><br>
-👨‍💻 All of my projects are available at https://hardik-sharma-08.github.io/<br>
-📄 Know about my experiences https://drive.google.com/file/d/1omEgF8azJFpf8YmfVwD23B8LdpzqKPzA/view<br>
-📫 How to reach me hardiksharma602@gmail.com</p>
+👨‍💻 All of my projects are available at <a href="https://hardik-sharma-08.github.io" target="_blank">Portfolio</a><br>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1omEgF8azJFpf8YmfVwD23B8LdpzqKPzA/view" target="_blank">Resume</a><br>
+📫 How to reach me <a href="mailto:hardiksharma602@gmailcom> hardiksharma602@gmail.com </a></p>
 
 ###
 
