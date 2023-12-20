@@ -98,6 +98,8 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oyijf7pqbryxy6yb5wx5vnc2n4)
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HARDIK-SHARMA-08.HARDIK-SHARMA-08&"  />
 </div>
