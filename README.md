@@ -16,16 +16,16 @@
 
 ###
 
-<p align="left">Final-year undergrad with a keen interest in software development and design. Enthusiastic about exploring diverse technologies, I'm eager to connect with like-minded individuals passionate about programming and innovation.</p>
+<p align="left">Final-year undergrad with a keen interest in <b>Software development</b> and <b>Design</b>. Enthusiastic about exploring diverse technologies, I'm eager to connect with like-minded individuals passionate about programming and innovation.</p>
 
 ###
 
 <p align="left">
 🌱 I’m currently learning <b>Backend Development</b><br>
 💬 Ask me about <b>ReactJS, NextJS, Javascript, Frontend Development</b><br>
-👨‍💻 All of my projects are available at <a href="https://hardik-sharma-08.github.io" target="_blank">Portfolio</a><br>
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1omEgF8azJFpf8YmfVwD23B8LdpzqKPzA/view" target="_blank">Resume</a><br>
-📫 How to reach me <a href="mailto:hardiksharma602@gmailcom> hardiksharma602@gmail.com </a></p>
+👨‍💻 All of my projects are available at <a href="https://hardik-sharma-08.github.io" target="_blank"><b>Portfolio</b></a><br>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1omEgF8azJFpf8YmfVwD23B8LdpzqKPzA/view" target="_blank"><b>Resume</b></a><br>
+📫 How to reach me hardiksharma602@gmail.com </p>
 
 ###
 
